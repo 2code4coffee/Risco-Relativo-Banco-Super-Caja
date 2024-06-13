@@ -32,12 +32,14 @@ Tecnologias: Gemini [Gemini (google.com)](https://gemini.google.com/app)
 
 
 - ## **📊 Processo documentado, fórmulas, resultados, conclusões e recomensações** 
-  [https://www.notion.so/P2-Hip-teses-Spotify-13a035f6e34a41419e22860516aa2588?pvs=4](https://unruly-whale-fb1.notion.site/P3-Risco-Relativo-Banco-Super-Caja-e09a85ca711646f29835cff3ab146ddd?pvs=25)
+  Documentações no Notion: [https://www.notion.so/P2-Hip-teses-Spotify-13a035f6e34a41419e22860516aa2588?pvs=4](https://unruly-whale-fb1.notion.site/P3-Risco-Relativo-Banco-Super-Caja-e09a85ca711646f29835cff3ab146ddd?pvs=25)
 
 
 
 - ## **🔗 Links de interesse** 
-
+  Sprints do projeto no Trello: https://trello.com/b/1us3X4LU/p3-risco-relativo-banco-super-caja
 
 
 - ## **📚 Referências** 
+  Material didático disponibilizado pela Laboratoria (disponível no cards do Trello)
+  
