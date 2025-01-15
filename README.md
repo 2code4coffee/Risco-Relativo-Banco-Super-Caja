@@ -32,8 +32,7 @@ Tecnologias: Gemini [Gemini (google.com)](https://gemini.google.com/app)
 
 
 - ## **📊 Processo documentado, fórmulas, resultados, conclusões e recomendações** 
-  Documentações no Notion: [https://www.notion.so/P2-Hip-teses-Spotify-13a035f6e34a41419e22860516aa2588?pvs=4](https://unruly-whale-fb1.notion.site/P3-Risco-Relativo-Banco-Super-Caja-e09a85ca711646f29835cff3ab146ddd?pvs=25)
-
+  Documentações no Notion: https://2code4coffee.notion.site/P3-Risco-Relativo-Banco-Super-Caja-e09a85ca711646f29835cff3ab146ddd?pvs=73
 
 
 - ## **🔗 Links de interesse** 
