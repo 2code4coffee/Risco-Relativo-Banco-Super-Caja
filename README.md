@@ -31,14 +31,14 @@ Tecnologias: Gemini [Gemini (google.com)](https://gemini.google.com/app)
 
 
 
-- ## **📊 Processo documentado, fórmulas, resultados, conclusões e recomendações** 
-  Documentações no Notion: https://2code4coffee.notion.site/P3-Risco-Relativo-Banco-Super-Caja-e09a85ca711646f29835cff3ab146ddd?pvs=73
+- ## **📊 Processo documentado, dashboard e recomendações** 
+  Todo o processo com fórmulas, anlise exploratoria e conclusoes no [Notion](https://2code4coffee.notion.site/P3-Risco-Relativo-Banco-Super-Caja-e09a85ca711646f29835cff3ab146ddd?pvs=73)
 
 
 - ## **🔗 Links de interesse** 
-  Sprints do projeto no Trello: https://trello.com/b/1us3X4LU/p3-risco-relativo-banco-super-caja
+  Sprints do projeto no [Trello](https://trello.com/b/1us3X4LU/p3-risco-relativo-banco-super-caja)
 
 
 - ## **📚 Referências** 
-  Material didático disponibilizado pela Laboratoria (disponível no cards do Trello)
+  Material didático disponibilizado pela Laboratoria, passo a passo nos cards do Trello)
   
